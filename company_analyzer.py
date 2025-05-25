@@ -1,3 +1,5 @@
+# Written by Tiago Perez
+
 import pandas as pd
 import numpy as np
 from scipy.stats import chisquare
